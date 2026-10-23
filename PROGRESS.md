@@ -8,7 +8,7 @@ Commit after every class. Tag every Friday: `git tag week-N && git push origin w
 - [x] /health runs locally
 - [x] docs/QUESTIONS.md: 10 real questions
 - [x] 50+ pages collected, DATASET.md filled, sample in data/sample/
-- [ ] Tag week-1 pushed
+- [x] Tag week-1 pushed
 
 ## Week 2 (tag week-2 by Fri 30 Oct)
 - [ ] POST /chat calls an LLM and returns structured JSON
@@ -28,4 +28,4 @@ Commit after every class. Tag every Friday: `git tag week-N && git push origin w
 ## Daily log
 | Date | What I did today | Commit |
 |---|---|---|
-| 2026-10-23 | Collected and measured 216 pages of official WHO guidance; added manifest, samples and reproducible tools. | Pending push access |
+| 2026-10-23 | Collected and measured 216 pages of official WHO guidance; added manifest, samples and reproducible tools. | `week-1` |
