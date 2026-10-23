@@ -1,5 +1,5 @@
 
-# WardWise – AI-Powered Hospital Guideline Assistant
+# WardWise – AI-Powered (Hospital Guideline Assistant)
 
 > **EXAMATE GenAI Project | Project ID: E-ENT-07 | Elite Batch**
 
