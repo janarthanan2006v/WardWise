@@ -1,0 +1,3 @@
+# filename | official source URL
+who_2025_kangaroo-mother-care-clinical-practice-guide.pdf | https://cdn.who.int/media/docs/default-source/newborn-health/kangaroo_mother_care_a_clinical_practice_guide.pdf?download=true&sfvrsn=4211ba4c_4
+who_2022_implementing-end-tb-strategy-essentials.pdf | https://cdn.who.int/media/docs/default-source/hq-tuberculosis/implementing-the-end-tb-strategy-the-essentials_-2022-update.pdf?download=true&sfvrsn=5f3c748b_3
