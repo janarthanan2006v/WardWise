@@ -1,3 +1,9 @@
-fastapi>=0.115
-uvicorn[standard]>=0.30
-pydantic-settings>=2.4
+click==8.5.0
+h11==0.16.0
+packaging==26.3
+psycopg==3.3.7
+psycopg-binary==3.3.7
+setuptools==84.2.1
+tzdata==2026.6
+uvicorn==0.54.0
+wheel==0.48.0
